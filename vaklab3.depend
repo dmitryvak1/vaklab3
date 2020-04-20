@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1586867049 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\file2.cpp
+	"file.h"
+	<string>
+
+1586867041 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\file.h
+	<iostream>
+	<string>
+
+1587374485 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\main.cpp
+	<iostream>
+	<string>
+	"transport.h"
+	"automobile.h"
+	"litecar.h"
+	"bus.h"
+	"plane.h"
+	"steamboat.h"
+
+1587289444 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\class1.cpp
+	"class1.h"
+	<string>
+
+1587292549 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\class1.h
+	<iostream>
+	<string>
+	"class2.h"
+
+1587289378 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\class2.cpp
+
+1587292794 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\class2.h
+	<iostream>
+	"class1.h"
+
+1587361217 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\transport.h
+	<iostream>
+	<string>
+
+1587357212 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\transport.cpp
+	"transport.h"
+	<string>
+
+1587357212 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\automobile.cpp
+	"automobile.h"
+	<string>
+	<iostream>
+
+1587366367 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\automobile.h
+	"transport.h"
+	<string>
+
+1587372476 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\litecar.cpp
+	"litecar.h"
+	<string>
+	<iostream>
+
+1587371139 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\litecar.h
+	"automobile.h"
+	<string>
+
+1587357429 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\bus.cpp
+	"bus.h"
+	<string>
+	<iostream>
+
+1587357418 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\bus.h
+	"automobile.h"
+	<string>
+
+1587362391 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\plain.h
+	"transport.h"
+
+1587362391 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\plain.cpp
+	"plain.h"
+	<iostream>
+
+1587367000 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\plane.h
+	"transport.h"
+
+1587374231 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\plane.cpp
+	"plane.h"
+	<iostream>
+	"transport.h"
+
+1587367202 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\steamboat.h
+	"transport.h"
+
+1587367240 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\steamboat.cpp
+	"steamboat.h"
+
