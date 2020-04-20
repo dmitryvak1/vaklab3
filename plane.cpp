@@ -30,7 +30,7 @@ bool plane::SetHours(int valhours)
     }
     else{hours=valhours;}
 }
-int plane::GetHours()
+int plane::GetHours()const
 {
     return hours;
 }

@@ -15,7 +15,7 @@ public:
 	automobile(int valplaces, int valspeed, string valmarka);
 
 	void SetMarka(string valmarka);
-	string GetMarka();
+	string GetMarka()const;
 
    virtual void print ()const = 0;
 };

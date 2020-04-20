@@ -16,7 +16,7 @@ void automobile::SetMarka(string valmarka)
 {
     marka=valmarka;
 }
-string automobile::GetMarka()
+string automobile::GetMarka()const
 {
 return marka;
 }

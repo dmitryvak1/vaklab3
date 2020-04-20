@@ -34,5 +34,5 @@ bool transport::SetSpeed(int valspeed) {
     }
     else{speed=valspeed;}
 }
-int transport::GetPlaces() { return places;}
-int transport::GetSpeed() { return speed;}
+int transport::GetPlaces() const{ return places;}
+int transport::GetSpeed() const{ return speed;}

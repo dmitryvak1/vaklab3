@@ -28,7 +28,7 @@ bool steamboat::SetAqua(int valaqua)
     }
     else{aqua=valaqua;}
 }
-int steamboat::GetAqua()
+int steamboat::GetAqua()const
 {
     return aqua;
 }

@@ -15,7 +15,7 @@ public:
 	plane(const plane &objcopy);
 
 	bool SetHours(int valhours);
-	int GetHours();
+	int GetHours()const;
 
     void print ()const;
 };

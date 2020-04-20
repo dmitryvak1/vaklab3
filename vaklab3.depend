@@ -32,20 +32,20 @@
 	<iostream>
 	"class1.h"
 
-1587361217 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\transport.h
+1587374976 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\transport.h
 	<iostream>
 	<string>
 
-1587357212 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\transport.cpp
+1587374976 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\transport.cpp
 	"transport.h"
 	<string>
 
-1587357212 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\automobile.cpp
+1587375029 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\automobile.cpp
 	"automobile.h"
 	<string>
 	<iostream>
 
-1587366367 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\automobile.h
+1587375029 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\automobile.h
 	"transport.h"
 	<string>
 
@@ -74,15 +74,15 @@
 	"plain.h"
 	<iostream>
 
-1587367000 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\plane.h
+1587374899 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\plane.h
 	"transport.h"
 
-1587374231 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\plane.cpp
+1587374906 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\plane.cpp
 	"plane.h"
 	<iostream>
 	"transport.h"
 
-1587367202 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\steamboat.h
+1587375091 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\steamboat.h
 	"transport.h"
 
 1587367240 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\steamboat.cpp

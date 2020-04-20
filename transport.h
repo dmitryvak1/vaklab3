@@ -19,10 +19,10 @@ public:
 	transport(const transport &objcopy);
 
 	bool SetPlaces(int valplaces);
-	int GetPlaces();
+	int GetPlaces()const;
 
 	bool SetSpeed(int valspeed);
-	int GetSpeed();
+	int GetSpeed()const;
 
 	virtual	void  print ()const=0;
 };
