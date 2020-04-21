@@ -8,13 +8,10 @@ transport::transport(int valplaces, int valspeed){
     {
         places = 0;
     }
-    places = valplaces;
-
     if (!SetSpeed(valspeed))
     {
         speed = 0;
     }
-speed = valspeed;
 }
 transport::transport() {
 	places = 10;
@@ -25,14 +22,17 @@ bool transport::SetPlaces(int valplaces) {
     {
        return false;
     }
-    else{places=valplaces;}
+    else{places=valplaces;
+    return true;}
 }
 bool transport::SetSpeed(int valspeed) {
     if (valspeed < 0)
     {
        return false;
     }
-    else{speed=valspeed;}
+    else {speed=valspeed;
+return true;}
+
 }
 int transport::GetPlaces() const{ return places;}
 int transport::GetSpeed() const{ return speed;}

@@ -10,7 +10,6 @@ plane::plane(int valplaces, int valspeed, int valhours):transport(valplaces, val
     {
         hours = 0;
     }
-    hours=valhours;
 }
 plane::plane()
 {
@@ -28,7 +27,8 @@ bool plane::SetHours(int valhours)
     {
        return false;
     }
-    else{hours=valhours;}
+    else{hours=valhours;
+    return true;}
 }
 int plane::GetHours()const
 {

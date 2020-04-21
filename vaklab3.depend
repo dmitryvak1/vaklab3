@@ -36,7 +36,7 @@
 	<iostream>
 	<string>
 
-1587374976 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\transport.cpp
+1587454174 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\transport.cpp
 	"transport.h"
 	<string>
 
@@ -85,6 +85,6 @@
 1587375091 d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\steamboat.h
 	"transport.h"
 
-1587367240 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\steamboat.cpp
+1587375096 source:d:\vakin\учёба\языки програмирования\2 семестр си++\vaklab3\steamboat.cpp
 	"steamboat.h"
 

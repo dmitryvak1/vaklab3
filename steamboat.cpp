@@ -8,7 +8,7 @@ steamboat::steamboat(int valplaces, int valspeed, int valaqua):transport(valplac
     {
         aqua = 0;
     }
-    aqua=valaqua;
+
 }
 steamboat::steamboat()
 {
@@ -26,7 +26,8 @@ bool steamboat::SetAqua(int valaqua)
     {
        return false;
     }
-    else{aqua=valaqua;}
+    else{aqua=valaqua;
+    return true;}
 }
 int steamboat::GetAqua()const
 {
