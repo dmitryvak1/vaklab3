@@ -14,7 +14,7 @@ public:
 	steamboat(int valplaces, int valspeed, int aqua);
 	steamboat(const steamboat &objcopy);
 
-	bool SetAqua(int valhours);
+	bool SetAqua(int valaqua);
 	int GetAqua()const;
 
     void print ()const;
